@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://Brogeby:,m3e4r91EP@demo-cluster.jbi0a.mongodb.net/demo-cluster?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://Brogeby:,m3e4r91EP@demo-cluster.jbi0a.mongodb.net/demo-cluster?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
 }
