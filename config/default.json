@@ -1,6 +1,0 @@
-{
-  "mongoURI": "mongodb+srv://Brogeby:,m3e4r91EP@demo-cluster.jbi0a.mongodb.net/demo-cluster?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken",
-  "githubClientId": "25b63ab541f655ffeb3d",
-  "githubSecret": "1636010fa726175431dd6092ba238a70101c30cd"
-}
